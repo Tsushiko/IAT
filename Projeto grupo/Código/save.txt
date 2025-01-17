@@ -6,7 +6,6 @@ antena_5_5.0_10_8.0_3.0
 antena_6_5.0_10_9.0_8.0
 antena_7_5.0_10_12.0_11.0
 antena_8_5.0_10_12.0_5.0
-antena_Lisboa_10.0_10_2.0_7.0
 
 cliente_1_2.0_2.0_jogos
 cliente_2_1.0_3.0_chamada
